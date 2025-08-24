@@ -1,25 +1,26 @@
-Python Week 4 Assignment
-📌 Assignment Overview
+## Python Week 4 Assignment
+
+# 📌 Assignment Overview
 
 This assignment covers file handling and error handling in Python. The tasks include:
 
-Reading content from a file.
+* Reading content from a file.
 
-Writing modified content into a new file.
+* Writing modified content into a new file.
 
-Handling errors gracefully when a file does not exist or cannot be read.
+* Handling errors gracefully when a file does not exist or cannot be read.
 
-🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 By completing this assignment, I practiced how to:
 
-Work with files in Python using open(), read(), and write().
+* Work with files in Python using open(), read(), and write().
 
-Handle exceptions with try...except to make code more robust.
+* Handle exceptions with try...except to make code more robust.
 
-Build simple programs that are both functional and error-free.
+* Build simple programs that are both functional and error-free.
 
-▶️ How to Run
+## ▶️ How to Run
 
 1. Clone or download the project files.
 
